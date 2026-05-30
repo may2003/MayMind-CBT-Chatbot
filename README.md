@@ -17,10 +17,10 @@ Millions of people worldwide struggle with anxiety, depression, and other mental
 ## Screenshots
 
 ### Welcome Screen
-![Welcome Screen](assets/screenshots/welcome.png)
+![Welcome Screen](assets/screenshots/welcome.jpg)
 
 ### Main Interface — CBT Tools
-![Main Interface](assets/screenshots/main.png)
+![Main Interface](assets/screenshots/main.jpg)
 
 > To add your own screenshots, save them to `assets/screenshots/` and update the paths above.
 
