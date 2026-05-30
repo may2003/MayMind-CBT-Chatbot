@@ -1,0 +1,65 @@
+/* Pink-themed MayMind style */
+body, html {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #FFF7FA;
+    color: #333;
+}
+
+.stButton > button {
+    background-color: #E197B1;
+    color: white;
+    font-weight: 600;
+    border-radius: 10px;
+    padding: 10px 20px;
+    border: none;
+    transition: all 0.3s;
+}
+
+.stButton > button:hover {
+    background-color: #D97D9F;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    transform: translateY(-1px);
+}
+
+.stChatMessage.stChatMessageUser {
+    background-color: #F0F7FF !important;
+    border-radius: 12px !important;
+}
+
+.stChatMessage.stChatMessageAssistant {
+    background-color: #FBE4ED !important;
+    border-radius: 12px !important;
+}
+
+/* Form fields */
+.stTextInput > div > div > input,
+.stTextArea > div > div > textarea {
+    border-radius: 8px;
+    border-color: #F0A6CA;
+}
+
+/* Expander */
+.stExpander {
+    border-radius: 10px;
+    border: 1px solid #F0A6CA30;
+}
+
+/* Headers */
+h1, h2, h3 {
+    color: #D97D9F;
+    font-weight: 600;
+}
+
+/* Tabs */
+button[data-baseweb="tab"] {
+    font-weight: 500;
+}
+
+button[data-baseweb="tab"]:hover {
+    color: #D97D9F;
+}
+
+/* Progress bar */
+.stProgress > div > div {
+    background-color: #F0A6CA;
+}
