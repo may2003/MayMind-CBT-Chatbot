@@ -10,7 +10,7 @@ MayMind is an AI-powered Cognitive Behavioural Therapy (CBT) chatbot designed as
 
 ## The Problem
 
-Millions of people worldwide struggle with anxiety, depression, and other mental health challenges but face significant barriers to accessing support — high costs, long waiting lists, geographic limitations, and social stigma. MayMind is a step toward breaking down those barriers, making CBT-based support available to anyone, anywhere, at any time.
+Millions of people worldwide struggle with anxiety, depression, and other mental health challenges but face significant barriers to accessing support high costs, long waiting lists, geographic limitations, and social stigma. MayMind is a step toward breaking down those barriers, making CBT-based support available to anyone, anywhere, at any time.
 
 ---
 
