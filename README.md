@@ -62,7 +62,6 @@ The AI uses OpenAI's GPT model with a carefully engineered system prompt that en
 | Frontend / UI | [Streamlit](https://streamlit.io) |
 | AI / NLP | [OpenAI API](https://platform.openai.com) (GPT) |
 | Data | Python session state, Pandas |
-| Visualisation | Matplotlib |
 | PDF Generation | FPDF |
 | Environment | Python 3.11, python-dotenv |
 
